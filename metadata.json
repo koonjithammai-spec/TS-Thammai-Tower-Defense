@@ -1,0 +1,8 @@
+{
+  "name": "TS Online: Three Kingdoms Tower Defense",
+  "description": "TS Online: ศึกป้องกันสามก๊ก — Classic Chinese fantasy Chibi Tower Defense strategy game featuring 12 Three Kingdoms heroes, 5 battlefields, 15 enemy types, 5 bosses, elements, and custom sprite support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
